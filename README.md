@@ -1,4 +1,14 @@
-# DestroyArcaeaWorld
+# DestroyArcareWorld
+
+ > Arcare 4.0 新曲包消息<br><br>
+ > Arcare的世界正在崩塌，一名少女与一位恶霸将如何改写这个世界？<br>
+ > 解开永恒核心的封印，探索Arcare世界的尽头，<br>
+ > 与Taikari和Guy一起，体验一个全新的世界，<br>
+ > 购买此曲包后，将立即解锁所有FindOut Chanllage Pack中的所有歌曲。<br>
+ >
+ > <**购买此曲包** 500原点><br>
+ > <**兑换此曲包** 使用Arcare五周年兑换券>
+
 [中文|Chinese](README.md) [英文|English](README_en.md )
 
 而此刻，就在彻底失去思考能力后，Taikari的求生本能终于开始运作——那种古老，曾被遗忘的本能反应。
