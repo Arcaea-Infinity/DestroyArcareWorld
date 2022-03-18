@@ -1,3 +1,16 @@
+# DestroyArcareWorld
+
+ > Arcare 4.0 New Pack Grapevine<br><br>
+ > Arcare world is falling apart. How will a young girl and a bully rewrite it?<br>
+ > Unlock the Challenge Core，explore the very ends of the Arcaea world.<br>
+ > Along with Taikari and Guy，explore a Brand New World，<br>
+ > Purchase this pack to obtain all songs in *FindOut Chanllage Pack*。<br>
+ >
+ > <**Purchase this pack** Use 500 Memories><br>
+ > <**Exchange this pack** Use 5th Anniversary Ticket>
+
+[中文|Chinese](README.md) [英文|English](README_en.md )
+
 And now, instincts begin to lurch, old and forgotten, in the wake of those thoughts.
 
 They haven’t yet taken hold, those discarded yet practical sensibilities. They have only stirred. She is still afraid. She clings to hope by a little finger.
