@@ -1,5 +1,5 @@
 # DestroyArcaeaWorld
-[中文|Chinese](README.md)
+[中文|Chinese](README.md) [英文|English](README_en.md )
 
 而此刻，就在彻底失去思考能力后，Taikari的求生本能终于开始运作——那种古老，曾被遗忘的本能反应。
 
