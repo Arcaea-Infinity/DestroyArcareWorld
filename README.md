@@ -4,7 +4,7 @@
  > Arcare 的世界正在崩塌，一名少女与一位恶霸将如何改写这个世界？<br>
  > 解开永恒核心的封印，探索 Arcare 世界的尽头，<br>
  > 与 Taikari 和 Guy 一起，体验一个全新的世界，<br>
- > 购买此曲包后，将立即解锁所有 FindOut Challenge Pack 中的所有歌曲。<br>
+ > 购买此曲包后，将立即解锁所有 *FindOut Challenge Pack* 中的所有歌曲。<br>
  >
  > <**购买此曲包** 500原点><br>
  > <**兑换此曲包** 使用Arcare五周年兑换券>
