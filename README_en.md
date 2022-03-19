@@ -4,7 +4,7 @@
  > Arcare world is falling apart. How will a young girl and a bully rewrite it?<br>
  > An new encryption algorithm fast approaches. Decryption may not be possible. Is this the only destiny afforded her? What truth will Taikari find at her endpoint?<br>
  > Unlock the API protocol, explore the very ends of the Arcaea world.<br>
- > Along with Taikari and Guy, enjoy a Brand New World,<br>
+ > Along with Taikari and [Guy](https://github.com/Guy-kun), enjoy a Brand New World,<br>
  > Purchase this pack to obtain all songs in *FindOut Chanllage Pack*.<br>
  >
  > <**Purchase this pack** Use 500 Memories><br>
