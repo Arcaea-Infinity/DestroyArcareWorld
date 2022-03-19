@@ -2,9 +2,10 @@
 
  > Arcare 4.0 New Pack Grapevine<br><br>
  > Arcare world is falling apart. How will a young girl and a bully rewrite it?<br>
- > Unlock the Challenge Core，explore the very ends of the Arcaea world.<br>
- > Along with Taikari and Guy，explore a Brand New World，<br>
- > Purchase this pack to obtain all songs in *FindOut Chanllage Pack*。<br>
+ > Unlock the Challenge Core, explore the very ends of the Arcaea world.<br>
+ > Along with Taikari and Guy, enjoy a Brand New World,<br>
+ > A storm fast approaches. Reconciliation may not be possible. Is this the only destiny afforded her? What truth will Taikari find at her endpoint?<br>
+ > Purchase this pack to obtain all songs in *FindOut Chanllage Pack*.<br>
  >
  > <**Purchase this pack** Use 500 Memories><br>
  > <**Exchange this pack** Use 5th Anniversary Ticket>
