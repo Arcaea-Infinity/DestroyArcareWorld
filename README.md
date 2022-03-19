@@ -1,5 +1,9 @@
 # DestroyArcareWorld
 
+[![Arcaea](https://img.shields.io/badge/Arcaea-3.12.3-blue)](#)
+[![Arcare](https://img.shields.io/badge/Arcare-4.0.0-purple)](#)
+[![License](https://img.shields.io/static/v1?label=LICENSE&message=NOCL&color=lightrey)](./LICENSE)
+
  > Arcare 4.0 新曲包消息<br><br>
  > Arcare 的世界正在崩塌，一名少女与一位恶霸将如何改写这个世界？<br>
  > 一种新加密算法正呼啸而来。 解密的可能性，或许并不存在。 一切，真的只是命中注定吗？ 在终点站等待着 Taikari 的，究竟是怎样的真理？</br>
