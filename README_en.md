@@ -1,5 +1,9 @@
 # DestroyArcareWorld
 
+[![Arcaea](https://img.shields.io/badge/Arcaea-3.12.3-blue)](#)
+[![Arcare](https://img.shields.io/badge/Arcare-4.0.0-purple)](#)
+[![License](https://img.shields.io/static/v1?label=LICENSE&message=NOCL&color=lightrey)](./LICENSE)
+
  > Arcare 4.0 New Pack Grapevine<br><br>
  > Arcare world is falling apart. How will a young girl and a bully rewrite it?<br>
  > An new encryption algorithm fast approaches. Decryption may not be possible. Is this the only destiny afforded her? What truth will Taikari find at her endpoint?<br>
